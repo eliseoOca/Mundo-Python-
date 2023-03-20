@@ -1,0 +1,2 @@
+cambiado desde archivo de texto para conteo de palabras
+Ejemplo de texto, ejemplo de texto, muchas palabras mas en este archivo, todo texto.
